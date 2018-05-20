@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+include ':app'
+=======
+include ':app'
+>>>>>>> 70b2b588e834e85031f781fab69828c7b382c849
+include ':hijriCalendarLibrary'
